@@ -1,0 +1,98 @@
+{
+    "AI1": [
+        {
+            "name": "Palmer",
+            "position": "MID",
+            "team": "CHE",
+            "ranking": 1
+        },
+        {
+            "name": "Haaland",
+            "position": "FWD",
+            "team": "MCI",
+            "ranking": 5
+        },
+        {
+            "name": "Son",
+            "position": "MID",
+            "team": "TOT",
+            "ranking": 6
+        },
+        {
+            "name": "Gordon",
+            "position": "MID",
+            "team": "NEW",
+            "ranking": 9
+        },
+        {
+            "name": "Bowen",
+            "position": "MID",
+            "team": "WHU",
+            "ranking": 10
+        }
+    ],
+    "AI2": [
+        {
+            "name": "Foden",
+            "position": "MID",
+            "team": "MCI",
+            "ranking": 2
+        },
+        {
+            "name": "Saka",
+            "position": "MID",
+            "team": "ARS",
+            "ranking": 4
+        },
+        {
+            "name": "Salah",
+            "position": "MID",
+            "team": "LIV",
+            "ranking": 7
+        },
+        {
+            "name": "\u00d8degaard",
+            "position": "MID",
+            "team": "ARS",
+            "ranking": 8
+        },
+        {
+            "name": "Solanke",
+            "position": "FWD",
+            "team": "BOU",
+            "ranking": 13
+        }
+    ],
+    "person1": [
+        {
+            "name": "Hee Chan",
+            "position": "MID",
+            "team": "WOL",
+            "ranking": 52
+        },
+        {
+            "name": "Watkins",
+            "position": "FWD",
+            "team": "AVL",
+            "ranking": 3
+        },
+        {
+            "name": "Johnson",
+            "position": "MID",
+            "team": "TOT",
+            "ranking": 43
+        },
+        {
+            "name": "Rice",
+            "position": "MID",
+            "team": "ARS",
+            "ranking": 17
+        },
+        {
+            "name": "Tomiyasu",
+            "position": "DEF",
+            "team": "ARS",
+            "ranking": 179
+        }
+    ]
+}
